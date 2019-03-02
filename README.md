@@ -1,2 +1,3 @@
-# CircularEnumaratorExtensionMethod
-A C# Circular Enumarator Extension
+# CircularEnumerator
+
+A C# Extension that implements a circular enumarator
